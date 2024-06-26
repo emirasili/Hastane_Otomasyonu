@@ -1,0 +1,3 @@
+﻿  HastaneOtomasyonu.cpp
+C:\Users\RNET-24\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu.cpp(71,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HastaneOtomasyonu.vcxproj -> C:\Users\RNET-24\source\repos\HastaneOtomasyonu\Debug\HastaneOtomasyonu.exe
